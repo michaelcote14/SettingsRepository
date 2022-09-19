@@ -1,0 +1,86 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Delete" />
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="BookmarksView.Delete" />
+  <action id="ChangesView.SetDefault" />
+  <action id="CodeCompletion" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="ContextHelp" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DomElementsTreeView.DeleteElement" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorLineEnd" />
+  <action id="EditorPaste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Stop">
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="UsageView.Exclude" />
+  <action id="ViewSource" />
+</keymap>
