@@ -24,6 +24,7 @@
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -34,11 +35,6 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="EditorCompleteStatement" />
-  <action id="EditorCopy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="ctrl insert" />
-    <mouse-shortcut keystroke="button4" />
-  </action>
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
