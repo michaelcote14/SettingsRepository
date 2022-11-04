@@ -80,6 +80,7 @@
   <action id="Stop">
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="back_quote" />
   </action>
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
