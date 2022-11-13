@@ -52,7 +52,6 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorLineEnd" />
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="ctrl space" />
@@ -76,10 +75,13 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="RunDashboard.Stop">
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="back_quote" />
+  </action>
   <action id="SplitChooser.Duplicate" />
   <action id="Stop">
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
   <action id="Terminal.SmartCommandExecution.Debug" />
