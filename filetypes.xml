@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Feature_Combination_Database" type="AUTO_DETECTED" />
       <mapping pattern="Important_Features_Database" type="AUTO_DETECTED" />
+      <mapping pattern="Training_Model_Database" type="AUTO_DETECTED" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="gv" type="dot file" />
