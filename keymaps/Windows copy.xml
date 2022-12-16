@@ -16,6 +16,10 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="ContextHelp" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomElementsTreeView.DeleteElement" />
   <action id="Editor Paste">
