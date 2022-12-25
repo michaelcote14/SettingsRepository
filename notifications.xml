@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Rainbow Brackets Notification Group" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
