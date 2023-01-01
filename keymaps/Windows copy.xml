@@ -18,9 +18,12 @@
   </action>
   <action id="BookmarksView.Delete" />
   <action id="ChangesView.SetDefault" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CodeCompletion" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
+  <action id="Console.TableResult.SubmitAndCommit" />
+  <action id="Console.Transaction.Commit" />
   <action id="ContextHelp" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -77,14 +80,19 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="NotebookRunAllAction" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -96,16 +104,24 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
+  <action id="SetShortcutAction" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="SmartUnSelect" />
   <action id="SplitChooser.Duplicate" />
   <action id="Stop">
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="UsageView.Exclude" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ReformatCommitMessage" />
