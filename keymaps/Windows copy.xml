@@ -7,6 +7,12 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -57,9 +63,12 @@
   </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -70,6 +79,11 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -77,6 +91,8 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="SplitChooser.Duplicate" />
   <action id="Stop">
     <mouse-shortcut keystroke="button2" />
@@ -85,6 +101,7 @@
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="UsageView.Exclude" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="ViewSource" />
   <action id="runShellFileAction">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
