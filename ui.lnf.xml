@@ -6,7 +6,6 @@
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
-    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>

@@ -74,6 +74,9 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="ExpressionTypeInfo" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -83,6 +86,9 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="MethodDown" />
@@ -125,6 +131,7 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="Terminal.ClearBuffer" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="Unwrap">
@@ -132,6 +139,7 @@
   </action>
   <action id="UsageView.Exclude" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ReformatCommitMessage" />
   <action id="ViewSource" />
   <action id="runShellFileAction">
