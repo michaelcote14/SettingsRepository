@@ -134,8 +134,9 @@
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleRenderedDocPresentation" />
   <action id="Unwrap">
-    <keyboard-shortcut first-keystroke="ctrl alt u" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
   <action id="UsageView.Exclude" />
   <action id="UsageView.ShowRecentFindUsages" />
