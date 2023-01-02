@@ -106,7 +106,6 @@
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="alt u" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="SetShortcutAction" />
