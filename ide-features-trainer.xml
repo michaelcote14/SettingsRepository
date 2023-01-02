@@ -29,7 +29,7 @@
         <entry key="move" value="PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
         <entry key="postfix completion" value="PASSED" />
-        <entry key="python.debug.workflow" value="NOT_PASSED" />
+        <entry key="python.debug.workflow" value="PASSED" />
         <entry key="python.onboarding" value="NOT_PASSED" />
         <entry key="python.run.configuration" value="PASSED" />
         <entry key="recent files and locations" value="PASSED" />
