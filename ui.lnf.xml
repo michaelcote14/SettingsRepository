@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
