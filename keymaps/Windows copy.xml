@@ -65,6 +65,7 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorPreviousWordWithSelection" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -103,6 +104,10 @@
   <action id="RunDashboard.Stop">
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="back_quote" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="SetShortcutAction" />
   <action id="ShowContent" />
