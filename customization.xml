@@ -1,0 +1,20 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Debug Tool Window Left Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Debug Tool Window Left Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveAllBreakpoints" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Debug Tool Window Left Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Debugger.RemoveAllBreakpoints" icon="jar:file:/C:/Program%20Files/JetBrains/PyCharm%202022.3.1/lib/app.jar!/toolbar/unknown.svg" />
+  </component>
+</application>
