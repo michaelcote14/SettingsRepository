@@ -93,6 +93,8 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="JupyterNotebookMoveCellDownCommandModeAction">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
