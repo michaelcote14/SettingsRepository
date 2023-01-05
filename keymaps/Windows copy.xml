@@ -20,14 +20,17 @@
   <action id="ChangesView.SetDefault" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CodeCompletion" />
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Console.TableResult.SubmitAndCommit" />
   <action id="Console.Transaction.Commit" />
   <action id="ContextHelp" />
+  <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomElementsTreeView.DeleteElement" />
   <action id="Editor Paste">
@@ -73,6 +76,7 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -112,7 +116,7 @@
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -133,6 +137,7 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="SendEOF" />
   <action id="SetShortcutAction" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
