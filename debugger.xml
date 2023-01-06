@@ -3,8 +3,15 @@
     <data-views>
       <sort-values>true</sort-values>
     </data-views>
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
       <debugger id="python">
         <configuration>
           <option name="watchReturnValues" value="true" />
