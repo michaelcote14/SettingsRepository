@@ -77,6 +77,7 @@
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooserList.Root" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -122,7 +123,7 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift alt f" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl enter" />
